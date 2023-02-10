@@ -74,8 +74,6 @@ const SignUp = () => {
     const token = res?.credential;
     const result = decode(res?.credential);
 
-    console.log(res);
-
     try {
       dispatch({ type: AUTH, data: { result, token } });
 
@@ -86,7 +84,6 @@ const SignUp = () => {
   };
 
   const googleError = (e) => {
-    console.log(e);
     toast.error("Google sign-in error, try again later...", {
       position: "top-right",
       autoClose: 3000, // time in milli secondes
