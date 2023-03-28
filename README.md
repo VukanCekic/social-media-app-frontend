@@ -1,29 +1,31 @@
-Social Media App Frontend
+## Social Media App Frontend
 This is the frontend part of a social media web application. It was built using React, Redux, and Material-UI.
 
-Features
+## Features
 The application allows users to:
 
-Register and login to their accounts
-Create and edit their profiles
-Create, edit, and delete posts
-Like and comment on posts
-View other users' profiles and posts
-Getting started
-To get started with this project, follow these steps:
+1. Register and login to their accounts
+2. Create and edit their profiles
+3. Create, edit, and delete posts
+4. Like and comment on posts
+5. View other users' profiles and posts
+6. Getting started
+7. To get started with this project, follow these steps:
 
-Clone the repository:
+## Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/VukanCekic/social-media-app-frontend.git
-Install the dependencies:
+1. bash
+2. Copy code
+3. git clone https://github.com/VukanCekic/social-media-app-frontend.git
 
-bash
-Copy code
-cd social-media-app-frontend
-npm install
-Run the development server:
+
+## Install the dependencies:
+
+1. bash
+2. Copy code
+3. cd social-media-app-frontend
+4. npm install
+5. Run the development server:
 
 sql
 Copy code
