@@ -35,17 +35,11 @@ This will start the development server at http://localhost:3000.
 Technologies used
 This project was built using the following technologies:
 
-React
-Redux
-Material-UI
-Axios
-Contributing
-If you'd like to contribute to this project, please follow these steps:
+* React
+* Redux
+* Material-UI
+* Axios
+* Contributing
 
-Fork the repository
-Create a new branch for your changes
-Make your changes and commit them
-Push your changes to your fork
-Create a pull request
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Backend Code
+https://github.com/VukanCekic/social-media-app-backend
