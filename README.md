@@ -27,12 +27,8 @@ The application allows users to:
 4. npm install
 5. Run the development server:
 
-sql
-Copy code
-npm start
-This will start the development server at http://localhost:3000.
 
-Technologies used
+## Technologies used
 This project was built using the following technologies:
 
 * React
